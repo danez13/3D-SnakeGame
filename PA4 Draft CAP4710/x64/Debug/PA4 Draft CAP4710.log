@@ -1,0 +1,182 @@
+﻿  openGL part.cpp
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(20,18): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(20,18): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(45,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(45,35): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(45,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(46,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(46,35): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(46,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(47,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(47,35): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(47,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(48,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(48,35): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(48,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(53,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(53,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(53,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(86,42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(118,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(141,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(143,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(157,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(159,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(188,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(189,48): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(189,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(189,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(192,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(193,56): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(193,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(193,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(213,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(213,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(213,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(214,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(215,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(215,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(215,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(216,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(216,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(216,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(216,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(219,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(219,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(219,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(220,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(221,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(221,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(221,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(260,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(265,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(270,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(274,28): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(278,27): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(290,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(290,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(506,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\openGL part.cpp(507,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  PA5 Draft CAP4710.cpp
+  quadric surfaces.cpp
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(14,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(14,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(28,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(28,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(31,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(31,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(31,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(33,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(33,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(33,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(34,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(34,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(34,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(36,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(37,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(37,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(37,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(5,15): warning C4101: 'k': unreferenced local variable
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(63,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(63,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(68,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(70,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(71,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(71,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(71,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(72,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(72,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(72,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(98,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(98,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(101,65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(101,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(101,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(102,65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(102,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(102,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(108,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(108,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(108,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(111,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(116,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(116,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(116,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(119,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(126,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(126,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(126,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(130,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(130,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(130,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(154,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(167,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(197,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(197,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(204,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(204,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(204,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(205,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(205,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(205,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(240,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(240,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(240,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(241,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(241,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(242,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(262,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(262,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(265,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(265,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(265,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(266,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(266,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(266,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(271,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(271,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(271,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(276,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(276,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(276,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(141,15): warning C4101: 'k': unreferenced local variable
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\quadric surfaces.cpp(217,23): warning C4101: 'radian': unreferenced local variable
+  SnakeAndBunny.cpp
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(201,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(202,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(204,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(207,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(211,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(214,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(215,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(217,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(227,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(229,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(231,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(232,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(258,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(306,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(309,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(312,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(315,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(320,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(323,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(326,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(329,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(334,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(336,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(339,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\PA4 Draft CAP4710\SnakeAndBunny.cpp(341,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PA4 Draft CAP4710.vcxproj -> C:\Users\Daniel Hernandez\Desktop\GITHUB\3D-SnakeGame\x64\Debug\PA5 Draft CAP4710.exe
+          1 file(s) copied.
