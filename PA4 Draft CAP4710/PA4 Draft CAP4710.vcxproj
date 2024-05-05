@@ -24,7 +24,7 @@
     <ProjectGuid>{d35bc269-4c8f-4f29-a1dc-d37e7c533d9e}</ProjectGuid>
     <RootNamespace>PA4DraftCAP4710</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>PA5 Draft CAP4710</ProjectName>
+    <ProjectName>SnakeGame</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -170,18 +170,18 @@
   <ItemGroup>
     <ClInclude Include="framework.h" />
     <ClInclude Include="openGLPart.h" />
-    <ClInclude Include="PA5 Draft CAP4710.h" />
+    <ClInclude Include="snakeGame.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="openGL part.cpp" />
-    <ClCompile Include="PA5 Draft CAP4710.cpp" />
+    <ClCompile Include="snakeGame.cpp" />
     <ClCompile Include="quadric surfaces.cpp" />
     <ClCompile Include="SnakeAndBunny.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="PA5 Draft CAP4710.rc" />
+    <ResourceCompile Include="snakeGame.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="bitmap1.bmp" />

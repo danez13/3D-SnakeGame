@@ -2,7 +2,7 @@
 //
 
 #include "framework.h"
-#include "PA5 Draft CAP4710.h"
+#include "snakeGame.h"
 #include "openGLPart.h"
 #include <sstream>
 
